@@ -11,5 +11,5 @@ func main() {
 }
 
 func index(w http.ResponseWriter, r *http.Request) {
-	io.WriteString(w, "hello from a GOLang Webserver!")
+	io.WriteString(w, "Hello From A GOLang Webserver!")
 }
