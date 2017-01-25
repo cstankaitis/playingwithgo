@@ -1,3 +1,3 @@
 # playingwithgo
 
-This is just a playgroud repo. Things may be broken.
+This is just a playgroud repo for me to use while learning Go. Things within this repo may be broken.
