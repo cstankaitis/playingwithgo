@@ -8,7 +8,7 @@ func main() {
 	b := "GoLang"
 	c := 4.17
 	d := true
-	e := "Hello"
+	e := "Hello World"
 	f := `Do you like my hat?`
 	g := 'M'
 
